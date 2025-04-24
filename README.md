@@ -1,6 +1,6 @@
 # 🌦️ Real-Time Weather App
 
-Real-Time Weather App is a modern Android application that allows users to check up-to-date weather conditions for any city around the world. It uses the OpenWeatherMap API to fetch real-time data such as temperature, humidity, wind speed, and weather status.
+Real-Time Weather App is a modern Android application that allows users to check up-to-date weather conditions for any city around the world. It uses the "WeatherAPI.com" of API to fetch real-time data such as temperature, humidity, wind speed, and weather status.
 
 ---
 
@@ -33,7 +33,7 @@ Real-Time Weather App is a modern Android application that allows users to check
 - MVVM Architecture
 - Retrofit + Coroutines
 - ViewModel & LiveData
-- OpenWeatherMap API
+- WeatherAPI.com (Free API plan)
 - Material Design 3
 
 ---
