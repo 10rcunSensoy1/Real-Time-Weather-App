@@ -8,8 +8,8 @@ Real-Time Weather App is a modern Android application that allows users to check
 
 ![Screenshot 2025-04-24 115342](https://github.com/user-attachments/assets/4c4aba3b-2f95-4100-99f3-8b394d5a6124)
 ![Screenshot 2025-04-24 115504](https://github.com/user-attachments/assets/a0660d24-10d1-4c73-b05a-c99b2544cefb)
-![Screenshot 2025-04-24 115526](https://github.com/user-attachments/assets/a8f14e2f-49f5-49ec-bca9-4434d639f779)
-![Screenshot 2025-04-24 115548](https://github.com/user-attachments/assets/e1e2a0bf-553a-4854-9b95-4b99d9411cd1)
+
+
 
 
 
